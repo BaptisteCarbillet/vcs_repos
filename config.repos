@@ -1,0 +1,33 @@
+repositories:
+  src/container_perception:
+    type: git
+    url: https://github.com/BaptisteCarbillet/container_perception.git
+    version: master
+  src/coverage_roi:
+    type: git
+    url: https://github.com/BaptisteCarbillet/coverage_roi.git
+    version: master
+  src/gr_bringup:
+    type: git
+    url: https://github.com/BaptisteCarbillet/gr_bringup.git
+    version: master
+  src/gr_description:
+    type: git
+    url: https://github.com/BaptisteCarbillet/gr_description.git
+    version: master
+  src/gr_docker:
+    type: git
+    url: https://github.com/BaptisteCarbillet/gr_docker.git
+    version: master
+  src/livox_cropbox:
+    type: git
+    url: https://github.com/BaptisteCarbillet/livox_cropbox.git
+    version: master
+  src/pointcloud_to_laserscan:
+    type: git
+    url: https://github.com/ros-perception/pointcloud_to_laserscan.git
+    version: humble
+  src/rs_cloud:
+    type: git
+    url: https://github.com/BaptisteCarbillet/rs_cloud.git
+    version: master
