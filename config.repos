@@ -15,10 +15,6 @@ repositories:
     type: git
     url: https://github.com/BaptisteCarbillet/gr_description.git
     version: master
-  src/gr_docker:
-    type: git
-    url: https://github.com/BaptisteCarbillet/gr_docker.git
-    version: master
   src/livox_cropbox:
     type: git
     url: https://github.com/BaptisteCarbillet/livox_cropbox.git
@@ -31,3 +27,15 @@ repositories:
     type: git
     url: https://github.com/BaptisteCarbillet/rs_cloud.git
     version: master
+  src/nav2_sim_bringup:
+    type: git
+    url: https://github.com/BaptisteCarbillet/nav2_sim_bringup.git
+    version: master
+  src/slam_bringup:
+    type: git
+    url: https://github.com/BaptisteCarbillet/slam_bringup.git
+    version: master
+  
+  
+  
+
